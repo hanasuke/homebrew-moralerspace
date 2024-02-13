@@ -1,4 +1,4 @@
-cask 'moralerspace' do
+cask 'font-moralerspace' do
   version '0.0.5'
   sha256 '067a08866c788db0ba9133ba139d2eb3750f6f2253a43bdd0e3418f57e0d9c10'
 
