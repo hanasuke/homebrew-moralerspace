@@ -1,6 +1,6 @@
 cask 'font-moralerspace_hwjpdoc' do
-  version '0.0.7'
-  sha256 '7977fc5b34de41ecf4e7ae0de74841b9fe89a68cc848f087e2e270c28b8d09d1'
+  version '1.0.0'
+  sha256 '7693ea9ee7e427252f1aa6c4e5cdeaf5aad624e9674ec1c33bc89fe7d393f595'
 
   url "https://github.com/yuru7/moralerspace/releases/download/v#{version}/MoralerspaceHWJPDOC_v#{version}.zip"
   name 'MoralerspaceJPDOC'
