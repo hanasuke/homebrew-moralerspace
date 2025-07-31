@@ -6,7 +6,7 @@ cask 'font-moralerspace_nf' do
   name 'MoralerspaceNF'
   homepage 'https://github.com/yuru7/moralerspace'
   desc 'Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP などを合成したプログラミング向けフォントです。'
-  deprecate! date: "2025-07-28", because: "Monaspace v1.200 から Nerd Fonts が標準搭載されたことに合わせ、Moralerspace でも全バリエーションで Nerd Fonts を標準搭載することにしました。これに伴い、本バージョンから Nerd Fonts 合成版 (ファイル名に NF が含まれるもの) はリリースに含まれません。"
+  deprecate! date: "2025-07-28", because: "Since Monaspace v1.200 includes Nerd Fonts as standard, Moralerspace will also include Nerd Fonts as standard in all variations. Please use moralerspace instead."
 
   font "MoralerspaceNF_v#{version}/MoralerspaceArgonNF-Bold.ttf"
   font "MoralerspaceNF_v#{version}/MoralerspaceArgonNF-BoldItalic.ttf"
